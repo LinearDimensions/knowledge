@@ -3,7 +3,11 @@ title: "{{title}}"
 alias:
 - "{{title}}"
 tags:
-- "{{title}}"
+- "qna"
 weight: -5
 enableToc: true
 ---
+
+> [!question] Question
+>
+> {{title}}

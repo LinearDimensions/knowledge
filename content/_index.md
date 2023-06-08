@@ -1,27 +1,29 @@
 ---
-title: 🪴 Quartz 3.3
+title: Home
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Welcome to linearxD's digital garden. Inspired by the concept of [[Second Brain]], adopting [[Zettelkasten method]] and powered by [Quartz](https://github.com/jackyzha0/quartz).
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+> [!info] About me 
+>
+> [[read more...]]
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+## How to Navigate
+> 🔍 Option 1: Use the ==search== function on the top right corner
+> 
+> #️⃣ Option 2: Filter your content by [tags](/tags/setup).
+> 
+> 📚 Option 3: Follow the step by step walkthrough below
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+## 
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
-
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
+## Feedback
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
 - 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
 
+
+## Created by 
+👩‍💻 [jackyzha0](https://github.com/jackyzha0)
+💻 [quartz](https://github.com/jackyzha0/quartz)   (Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free.)
