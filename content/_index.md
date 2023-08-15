@@ -1,28 +1,29 @@
 ---
-title: Home
+title: finXplains
 enableToc: false
 ---
 
-Welcome to linearxD's digital garden. Inspired by the concept of [[Second Brain]], adopting [[Zettelkasten method]] and powered by [Quartz](https://github.com/jackyzha0/quartz).
+Welcome to linearxD's digital garden. Inspired by the concept of [[Second Brain]] and adopting the [[Zettelkasten method]], this page hopes to explain the intricacies of finance.
 
-> [!info] About me 
->
-> [[read more...]]
+> [!tip] NEW UPDATES ⚡
+- ❓ [[why i joined financial advisory]]
+- 💳 [[what credit cards should i get]]
+- 💲 [[budgeting: which ratio is right for you]]
+- [read more...](encyclopedia.md)
 
-## How to Navigate
-> 🔍 Option 1: Use the ==search== function on the top right corner
-> 
-> #️⃣ Option 2: Filter your content by [tags](/tags/setup).
-> 
-> 📚 Option 3: Follow the step by step walkthrough below
+> [!abstract] STEP BY STEP GUIDES
+- [[everything about investments]]
+- [[everything about cpf]]
 
-## 
+> [!info] ABOUT
+- 
 
-## Feedback
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+> [!warning] HOW TO NAVIGATE 
+- Use the 🔍 function on the top right
+- Filter your content by [#️⃣](tags)
+- Subscribe to broadcast list [📢](https://t.me/+g1AXngiRnjI2ZTI1)
 
+> [!question] FAQ 
 
 ## Created by 
 👩‍💻 [jackyzha0](https://github.com/jackyzha0)
